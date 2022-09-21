@@ -26,7 +26,9 @@ Coq 8.8.0 まではインストーラが用意されている。
 ---
 # エディタ
 
-**VScode+VSCoq**がおすすめ。VScode上で拡張機能(`Ctrl+Shift+X`)から「vscoq」と検索すれば出てくる。
+- **VScode+VSCoq**がおすすめ。VScode上で拡張機能(`Ctrl+Shift+X`)から「vscoq」と検索すれば出てくる。
+  - Windowsの人はWSL上で動かせるように**Remote - WSL**も入れよう。
 
-Windowsの人はWSL上で動かせるように**Remote - WSL**も入れよう。
+
+- インストーラから入れた場合は**CoqIDE**も利用できる(がVSCoqの方が便利)
 
