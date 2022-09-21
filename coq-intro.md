@@ -1,7 +1,6 @@
 ---
 marp: true
 # backgroundColor: orange
-theme: base
 class: invert
 ---
 
