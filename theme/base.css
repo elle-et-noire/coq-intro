@@ -1,0 +1,14 @@
+/* @theme base */
+@import 'gaia';
+
+section {
+  background:linear-gradient(to right, #4c8590, #734b85); 
+}
+
+section.title {
+  font-size: 36px;
+}
+
+footer {
+  text-align: center;
+}
